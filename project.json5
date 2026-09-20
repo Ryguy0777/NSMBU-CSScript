@@ -1,10 +1,10 @@
 {
     WURPLSVersion: "1.0",
     
-    Name: "ExampleMod",
+    Name: "CSScript",
     Type: "Standard",
     Version: "1.0.0",
-    Description: "This is the RedCore example mod!",
+    Description: "Adds support for loading Worldmap script files from RoadrunnerWMC's Cobra",
     
     SourceDirs: [
         "src"

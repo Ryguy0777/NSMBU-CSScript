@@ -2,8 +2,8 @@
 
 #include <red/registry/Registrar.h>
 
-namespace example {
+namespace csscript {
     
     red::Registrar* getRegistrar();
     
-}
+} // namespace csscript

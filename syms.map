@@ -1,3 +1,15 @@
 @addresses_from "00050000-10101D00" // US v1.3.0 (v64)
 
 // If your mod uses symbols that aren't in RedCore, you can add them here.
+    _ZN17CourseSelectActorC2ERK16ActorCreateParam = 0x021B2310;
+    _ZN17CourseSelectActorD1Ev = 0x021B35A4;
+    _ZN17CourseSelectActor10preExecuteEv = 0x021B2528;
+    _ZN17CourseSelectActor7preDrawEv = 0x021B2658;
+
+    _ZN4sead13FileDeviceMgr7tryOpenEPNS_10FileHandleERKNS_14SafeStringBaseIcEENS_10FileDevice12FileOpenFlagEj = 0x029F8B0C;
+    _ZN4sead10FileHandle4readEPhj = 0x029F81D0;
+    _ZN4sead10FileDevice8tryCloseEPNS_10FileHandleE = 0x029F78C0;
+
+    _ZN21CourseSelectScriptMgr15isRunningScriptEv = 0x021E3D8C;
+
+    scWorldMapScripts = 0x100458B8;
